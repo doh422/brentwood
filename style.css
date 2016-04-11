@@ -46,6 +46,15 @@ nav {
 	position: relative;
 }
 
+.copy {
+	height: 20%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+	color: #A5A5A5;
+}
+
 .row {
 	width: 49%;
 	height: 90%;
@@ -117,6 +126,7 @@ li {
 
 #about h1 {
 	color: #A49E88;
+	margin-top: 50px;
 }
 
 #newsletter {
