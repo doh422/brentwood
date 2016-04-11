@@ -28,6 +28,10 @@ nav {
 	top: 15px;
 }
 
+#links ul {
+	padding-left: 0;
+}
+
 #links li {
 	margin-left: 25px;
 }
@@ -85,6 +89,7 @@ li {
 
 #about {
 	height: 80%;
+	min-height: 650px;
 }
 
 #about img {
