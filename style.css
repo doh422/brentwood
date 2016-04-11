@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	min-width: 1200px;
 }
 
 #main {
@@ -84,6 +85,12 @@ li {
 
 #about {
 	height: 80%;
+}
+
+#about img {
+	height: 30%;
+	display: block;
+	margin: auto;
 }
 
 #guarantee {
@@ -192,6 +199,7 @@ footer .content {
 	color: white;
 	width: 250px;
 	margin: auto;
+	margin-top: 30px;
 }
 
 #button3 {
